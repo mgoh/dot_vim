@@ -1,5 +1,5 @@
 # dot_vim
-boring vim dot files
+boring vim dot files infected with <a href="https://github.com/tpope/vim-pathogen">vim-pathogen</a>
 
 built with submodules:
 ```
