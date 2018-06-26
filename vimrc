@@ -13,6 +13,9 @@ set fo=crq      " when to wrap lines
 set autoindent  " set auto-indenting on
 set number
 set runtimepath^=~/.vim/bundle/ctrlp.vim
+"set cursorline 
+"hi CursorLine ctermbg=11 ctermfg=15 "8 = dark gray, 15 = white
+"hi Cursor ctermbg=15 ctermfg=8
 
 
 autocmd FileType python set sw=4
